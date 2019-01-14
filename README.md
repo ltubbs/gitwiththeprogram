@@ -1,3 +1,5 @@
+***Edited on 13 January 2019 for CSCI 462***
+
 GitWithTheProgram 362 Final Project GitHub
 =========================================
 
